@@ -1,0 +1,24 @@
+{
+  "name": "sith-dynamicparameters",
+  "version": "1.0.0",
+  "description": "Listen to Postgres Changes and Update Tableau Parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthFlashyPants/sith-dynamicparameters.git"
+  },
+  "author": "Darth Flashy Pants",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarthFlashyPants/sith-dynamicparameters/issues"
+  },
+  "homepage": "https://github.com/DarthFlashyPants/sith-dynamicparameters#readme",
+  "dependencies": {
+    "pg": "^6.1.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {}
+}
